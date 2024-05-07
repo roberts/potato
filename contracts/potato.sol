@@ -1,6 +1,12 @@
 /**
  *
  *
+   potato gun app - sniper bot 4 base chain
+   $POTATO on base chain
+   https://potatogun.app
+   https://x.com/potatogunapp
+   https://t.me/potatogunapp
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
